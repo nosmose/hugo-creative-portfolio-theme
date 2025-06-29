@@ -867,6 +867,13 @@ a:active {
   color: #999999;
   font-size: 14px;
 }
+.box-masonry .box-masonry-hover-text-header,
+.box-masonry .box-masonry-hover-text-header *,
+.box-masonry .box-masonry-hover-center,
+.box-masonry .box-masonry-hover-center * {
+  color: #222 !important;
+}
+
 .box-masonry .box-masonry-hover-text-header {
   position: absolute;
   left: 0;
@@ -877,7 +884,6 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  color: #555555;
 }
 .box-masonry .box-masonry-hover-text-header p {
   font-size: 14px;
