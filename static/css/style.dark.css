@@ -848,7 +848,7 @@ a:active {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 700;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
@@ -865,7 +865,7 @@ a:active {
 }
 .box-masonry .box-masonry-text p {
   color: #999999;
-  font-size: 14px;
+  font-size: 12px;
 }
 .box-masonry .box-masonry-hover-text-header,
 .box-masonry .box-masonry-hover-text-header *,
