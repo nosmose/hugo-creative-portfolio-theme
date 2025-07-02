@@ -915,7 +915,7 @@ a:active {
   opacity: 1;
 }
 .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
-  opacity: 0.8;
+  opacity: 0.2;
 }
 .box-masonry:hover .box-masonry-image.with-hover-icon:after {
   opacity: 0.7;
