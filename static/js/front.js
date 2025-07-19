@@ -1,4 +1,6 @@
-masonry();
+if (document.querySelector('.grid')) {
+    masonry();
+}
 $(function () {
     offCanvas();
     lightbox();
